@@ -99,3 +99,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/vfd003-ual/vfd003-ual/output/snake.svg" alt="Snake animation" />
+
+###
